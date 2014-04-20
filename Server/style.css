@@ -1,0 +1,57 @@
+/* CSS Document */
+
+a{text-decoration: none;}
+#myHome{width:1021px;height:700px;margin:0 auto;background-image: url("images/img1.jpg");
+	border:1px solid #000000;	background-repeat: no-repeat;}
+#title{width:1000px; height:100px; margin:0 auto; background-image: url("images/title.png");}
+.Box{width:500px;height:400px;margin:0 auto;}
+.myBox{width:500px;height:400px;border:thin;margin-top:50px;margin:0 auto;} 
+.myTab{width:204px;height:50px;float:left;border-top:5px;text-align: center; line-height: 45px;
+	 cursor: pointer; background-image: url("images/menu.png"); color: #ffffff; font-weight: bold;}
+
+.myTab:hover{color:#000000;}
+
+.myLabel{width:150px; height:40px;  text-align:center;font-size:22px;
+font-family:"Courier New", Courier, monospace; text-transform:uppercase; font-weight:900;}
+.myHeading{width:153px; height:60px; text-align:left;font-size:20px;
+font-family:"Courier New", Courier, monospace; text-transform:uppercase; font-weight:900;float: left;}
+.myHeading1{width:135px; height:60px;text-align:left;font-size:20px; color:#C60;
+font-family:"Courier New", Courier, monospace; text-transform:uppercase; font-weight:900;float: left;}
+
+.mypage{width:500px;height:400px;}
+
+.myFirst{width:500px;height:40px;margin:0 auto;}
+
+
+.mysecond{width:200px;height:40px;float:left; text-align: right;color:#ffffff;}
+.mythird{width:200px; height:40px; float:left; margin-left: 20px;}
+.wrapper_content5{width: 1024px;margin:0 auto; min-height:600px;
+background-image:url(" css/images/img01.jpg"); padding-bottom: 15px;background-repeat: repeat-y;}
+.Box1{width:700px;height:500px;border:thin;} 
+.Box2{width:500px;height:200px;border:thin;}
+.Box3{width:500px;height:200px;border:thin;}
+.myleft{height:40px;width:920px;border:thin; margin:0 auto;float:left;margin-left: 30px;}
+.myrow{height:40px;width:922px;border:thin; background-image: images/box.png; color:#00ff00; margin:0 auto;}
+.mycolumn{width:150px;height:40px;float:left; color:#ffffff; font-weight: bold;}
+.mycolumn1{width:150px;height:40px;float:left;}
+
+.mynext{width:100px;height:200;float:left;margin-top:25px;}
+
+
+
+.select{width:500px; height:40px; clear: both; margin: 0 auto;}
+
+.footer_link{width:100%;height:40px; margin: 0 auto;background-image: url("css/images/header.gif");text-align: center;font-weight: bold;
+color: #ffffff}
+
+
+
+.home_content{width:960px;height:200px; margin: 0 auto;}
+
+
+
+h2{font-size: 12px;color:#ffffff; font-family: verdena, geneva, sans-serif;}
+
+
+
+.picture{width:291px;height:301px;position: absolute;margin-left: 700px; margin-top: 200px;background-image: url("css/images/12.png")}
